@@ -9,7 +9,7 @@ ar1.shift()
 ar1.pop()
 for(i=0;i<ar1.length;i++)
 {
-    console.log(ar1[i] + ' Is in the array')
+    console.log(ar1[i] + ' Is in the array' + 'Am gonna Check out Master')
 }
 
 
